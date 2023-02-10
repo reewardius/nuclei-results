@@ -5,4 +5,4 @@
 - chmod +x nuclei.sh
 - ./nuclei.sh
 
-![Screenshot]([https://raw.githubusercontent.com/username/repository/blob/branch/path/to/image.png](https://github.com/reewardius/nuclei-results/blob/main/img/img.jpg))
+![A screenshot of my website](https://raw.githubusercontent.com/reewardius/nuclei-results/main/img/img.jpg)
